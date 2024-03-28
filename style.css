@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Nunito", sans-serif;
+}
+
+body {
+    background-color: #afdcff;
+    text-align: center;
+}
+
+textarea {
+    border: 1px solid #ececec;
+    border-radius: 10px;
+    background-color: #ececec;
+    padding: 0.8rem 0.4rem;
+    margin: 0.5rem;
+    letter-spacing: 0.1rem;
+}
+
+h1 {
+    color: #000011;
+}
